@@ -18,7 +18,7 @@ Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/).
  
 ## Education
 - Bachelor in Photonics at [Institut d'Optique Graduate School](https://www.institutoptique.fr/en) (Palaiseau, France). 
-- Master in Photonics at Institut d'Optique Graduate School (Bordeaux, France) specialized in Virtual reality and real-virtual interfaces, image synthesis and 3D imaging, rendering and computer graphics. Innovation and Entrepreneurship pathway.
+- Master in Photonics at Institut d'Optique Graduate School (Bordeaux, France) specialized in image synthesis and 3D imaging, rendering and computer graphics. Innovation and Entrepreneurship pathway.
 - Master in Image and Sound Processing at [Université de Bordeaux](https://sciences-ingenieur.u-bordeaux.fr/Nos-formations/Master-Ingenierie-des-Systemes-Complexes-ISC/Parcours-Ingenierie-des-Systemes-pour-l-Image-et-le-Signal-ISIS)
 
  
@@ -26,7 +26,7 @@ Supervisor: [Arnaud Prouzeau](https://www.aprouzeau.com/).
 My research was funded in part by the [Ember Project](https://ember.inria.fr/) (ANR grant ANR-19-CE33-0012).
 - VIS'23 long paper: [Handling non-visible Referents for Situated Visualizations](https://hal.science/hal-03907474/)
 - CHI'23 Interactivity: [Exploring Augmented Reality Waste Data Representations for Eco Feedback](https://dl.acm.org/doi/abs/10.1145/3544549.3583905)
-- Under pee-review, available as a preprint: [Augmented Reality Waste Accumulation Visualizations](https://hal.science/hal-03907474/)
+- Article in ACM Journal on Computing and Sustainable Societies: [Augmented Reality Waste Accumulation Visualizations](https://hal.science/hal-03907474/)
 
 ## Activities
 
